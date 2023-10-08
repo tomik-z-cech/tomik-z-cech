@@ -114,7 +114,7 @@ In my free time, I find solace in programming, allowing me to unwind and explore
 
 - 📧 Email: [tkubancik@gmail.com](mailto:tkubancik@gmail.com)
 - 🌐 Portfolio/Website: in progress
-- 📱 LinkedIn: [Tomas Kubancik](linkedin.com/in/tomas-kubancik-8b94928b)
+- 📱 LinkedIn: [Tomas Kubancik](https://linkedin.com/in/tomas-kubancik-8b94928b)
 - 💼 GitHub: [@tomik-z-cech](https://github.com/tomik-z-cech)
 
 ---
