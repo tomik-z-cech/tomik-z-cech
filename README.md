@@ -9,6 +9,43 @@
 I am a dedicated and passionate individual with a keen interest in Software Development. Currently, I am student of Code Institute. I am highly motivated to become software developer.
 
 ---
+## Programming languages
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
+)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
+)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<HTML>&logoColor=white&color=f0db4f
+) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
+) 
+
+### Frameworks and libraries
+  
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
+)
+![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<HTML>&logoColor=white&color=B24926
+)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<HTML>&logoColor=white&color=3cbd0d
+) 
+
+---
+
+## GitHub Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomik-z-cech&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomik-z-cech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+## Starred Repos
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP1-Cibo-Fresco&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP2-Millionaire&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP3-Fallout-Hangman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+---
 
 ## Education
 
