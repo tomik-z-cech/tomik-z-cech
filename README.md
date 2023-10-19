@@ -38,15 +38,11 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomik-z-cech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
 ## Starred Repos
-<a href="https://github.com/tomik-z-cech/PP1-Cibo-Fresco" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP1-Cibo-Fresco&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP1-Cibo-Fresco&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP1-Cibo-Fresco)
 
-<a href="https://github.com/tomik-z-cech/PP1-Cibo-Fresco" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP2-Millionaire&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP2-Millionaire&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP2-Millionaire)
   
-([<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP3-Fallout-Hangman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP3-Fallout-Hangman))
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP3-Fallout-Hangman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP3-Fallout-Hangman)
 
 
 ---
