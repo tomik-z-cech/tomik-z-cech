@@ -20,7 +20,7 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
 ) 
 
-### Frameworks and libraries
+## Frameworks and libraries
   
 ![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
 )
@@ -44,6 +44,12 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
   
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP3-Fallout-Hangman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP3-Fallout-Hangman)
 
+
+---
+
+## Hackathons
+
+[![October 2023 - Participant](https://tomik-z-cech.github.io/PP1-Cibo-Fresco/Code Institute - Halloween Hackathon 2023 Participant - 2023-10-24.png)](https://eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
 
 ---
 
