@@ -49,7 +49,9 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 
 ## Hackathons
 
-[![October 2023 - Participant](https://tomik-z-cech.github.io/PP1-Cibo-Fresco/Code Institute - Halloween Hackathon 2023 Participant - 2023-10-24.png)](https://eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
+Ocotober 2023 - Halloween Hackathon - Code Institute
+
+[![October 2023 - Participant](https://tomik-z-cech.github.io/tomik-z-cech/hackathon2023.png)](https://eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
 
 ---
 
