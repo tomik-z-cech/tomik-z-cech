@@ -27,7 +27,10 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 ![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<HTML>&logoColor=white&color=B24926
 )
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<HTML>&logoColor=white&color=3cbd0d
-) 
+)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
+)
+
 
 ---
 
