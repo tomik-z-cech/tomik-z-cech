@@ -52,6 +52,12 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 
 ---
 
+## Codewars
+
+[![Codewars](https://www.codewars.com/users/tomik-z-cech/badges/large)](https://www.codewars.com/users/tomik-z-cech)
+
+---
+
 ## Hackathons
 
 Ocotober 2023 - Halloween Hackathon - Code Institute
