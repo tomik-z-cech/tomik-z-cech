@@ -1,12 +1,18 @@
 # Tomas Kubancik (tomik-z-cech)
 
-👋 Hi, I’m [@tomik-z-cech](https://github.com/tomik-z-cech) 
+👋 Hi, I'm [@tomik-z-cech](https://github.com/tomik-z-cech), welcome to my GitHub profile.
+
+- 💻 **Role :** Full Stack Software Developer
+- 🎓 **Education :** Alumnus of Code Institute with a Distinction Grade
+- 📧 **Email :** [tkubancik@gmail.com](mailto:tkubancik@gmail.com)
+- 📞 **Phone :** +353 86 232 20 14
+- 🔗 **LinkedIn :** [Tomas Kubancik](www.linkedin.com/in/tomas-kubancik)
 
 ---
 
 ## Summary
 
-I am a dedicated and passionate individual with a keen interest in Software Development. Currently, I am student of Code Institute. I am highly motivated to become software developer.
+I am a Full Stack Software Developer and an alumnus of Code Institute, where I graduated with a Distinction. My expertise spans a range of technologies, including Python, Django, JavaScript, HTML5, CSS3, and PostgreSQL. Through my portfolio projects, I've demonstrated my ability to build comprehensive web applications, integrate payment processing systems, and create visually appealing interfaces. My development skills are complemented by a solid understanding of database management and a keen eye for detail.
 
 ---
 ## Programming languages
@@ -38,9 +44,11 @@ I am a dedicated and passionate individual with a keen interest in Software Deve
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomik-z-cech&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomik-z-cech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomik-z-cech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tomas Kubancik GitHub Stats" />
 
 ## Starred Repos
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP5-Ohm-Azing-Components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP5-Ohm-Azing-Components)
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tomik-z-cech&repo=PP4-Aneta-s-Glimmer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />](https://github.com/tomik-z-cech/PP4-Aneta-s-Glimmer)
 
@@ -68,16 +76,17 @@ Ocotober 2023 - Halloween Hackathon - Code Institute
 
 ## Education
 
-- **High School Leaving Certificate**
-  - **School:** SPSE Roznov pod Radhostem, Czech Republic
-  - **Years:** 2002-2006
-  - **Specialization:** IT
+- **Higher Education**
+  - **School :** Code Institute, Ireland
+  - **Years :** 2023 - 2024
+  - **Specialization :** Full Stack Software Development
+  - **Result :** Disctinction grade
 
-- **Current Study**
-  - **Program:** Full Stack Software Development
-  - **School:** Code Institute, Ireland
-  - **Started:** 2023
-  - **Status:** Ongoing
+- **High School Leaving Certificate**
+  - **School :** SPSE Roznov pod Radhostem, Czech Republic
+  - **Years :** 2002 - 2006
+  - **Specialization :** IT
+  - **Result :** Pass with leaving certificate
 
 ---
 
@@ -85,10 +94,10 @@ Ocotober 2023 - Halloween Hackathon - Code Institute
 
 ### Technical Skills
 - **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** Flask, Bootstrap, Materialize
+- **Frameworks:** Flask, Bootstrap, Materialize, Django
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Visual Studio Code
-- **Other:** Web Development, UI/UX Design and other
+- **Other:** Web Development, UI/UX Design and others
 
 ### Soft Skills
 - **Communication:** Excellent verbal and written communication skills
@@ -119,31 +128,54 @@ Ocotober 2023 - Halloween Hackathon - Code Institute
 
 ## My Projects
 
-- **Cibo Fresco - Portfolio project 1 - Code Institute**
-  - This project utilises knowledge of HTML 5 and CSS 3 and was developed as student portfolio project 1 with Code Institute.
+- **Ohm-Azing Components - Portfolio Project 5 - Code Institute**
+  - This portfolio project showcases my skills in developing web applications using the Django framework, with a focus on integrating various technologies. The project demonstrates my 
+    proficiency in:
 
-  - Live version : https://tomik-z-cech.github.io/PP1-Cibo-Fresco/index.html
-  - Github repository : https://github.com/tomik-z-cech/PP1-Cibo-Fresco
+  - **Programming Languages :** Python, HTML, CSS, and JavaScript
+  - **Database Management :** PostgreSQL
+  - **Payment Processing :** Stripe Integration
+  - The project was created as part of my coursework at Code Institute and serves as a comprehensive demonstration of my ability to build robust, feature-rich applications.
+
+  - Live version : [https://ohmazing-components-1a5a0fcb9e95.herokuapp.com/](https://ohmazing-components-1a5a0fcb9e95.herokuapp.com/)
+  - Github repository : [https://github.com/tomik-z-cech/PP5-Ohm-Azing-Components](https://github.com/tomik-z-cech/PP5-Ohm-Azing-Components)
  
-  - Grade : Merit
+  - Grade : **Distinction**
 
+- **Aneta's Glimmer - Portfolio Project 4 - Code Institute**
+  - This portfolio project demonstrates my expertise in developing web applications using the Django framework. It reflects my proficiency with several programming languages and technologies, including:
+
+  - **Core Technologies :** Python, HTML, CSS, and JavaScript
+  - **Database Management :** PostgreSQL
+Developed as part of my coursework with Code Institute, this project serves as a testament to my skills in creating functional and dynamic applications.
+
+  - Live version : [https://anetas-glimmer-05b4a3ceb113.herokuapp.com/](https://anetas-glimmer-05b4a3ceb113.herokuapp.com/)
+  - Github repository : [https://github.com/tomik-z-cech/PP4-Aneta-s-Glimmer](https://github.com/tomik-z-cech/PP4-Aneta-s-Glimmer)
+ 
+  - Grade : **Distinction**
+
+- **Fallout Mini - Hangman - Portfolio Project 3 - Code Institute**
+  - This portfolio project highlights my command of the Python programming language. It was developed as part of my coursework with Code Institute and demonstrates my ability to create robust applications using Python.
+
+  - Live version : [https://fallout-hangman-b9afc22725df.herokuapp.com/](https://fallout-hangman-b9afc22725df.herokuapp.com/)
+  - Github repository : [https://github.com/tomik-z-cech/PP3-Fallout-Hangman](https://github.com/tomik-z-cech/PP3-Fallout-Hangman)
+ 
+  - Grade : **Merit**
 
 - **Millionaire - Portfolio Project 2 - Code Institute**
-  - This project utilises knowledge of JavaScript, HTML 5 and CSS 3 and was developed as student portfolio project 2 with Code Institute.
-    
-  - Live version : https://tomik-z-cech.github.io/PP2-Millionaire/
-  - Github repository : https://github.com/tomik-z-cech/PP2-Millionaire
+  - This portfolio project showcases my skills in web development using a combination of JavaScript, HTML5, and CSS3. Created as part of my coursework with Code Institute, this project demonstrates my ability to craft interactive and visually engaging web applications.
+  - Live version : [https://tomik-z-cech.github.io/PP2-Millionaire/](https://tomik-z-cech.github.io/PP2-Millionaire/)
+  - Github repository : [https://github.com/tomik-z-cech/PP2-Millionaire](https://github.com/tomik-z-cech/PP2-Millionaire)
  
-  - Grade : Merit
+  - Grade : **Merit**
 
- 
-- **Fallout Mini - Hangman - Portfolio Project 3 - Code Institute**
-  - This project utilises knowledge of Python programming language and was developed as student portfolio project 3 with Code Institute.
+- **Cibo Fresco - Portfolio project 1 - Code Institute**
+  - This portfolio project demonstrates my foundational skills in web development, focusing on HTML5 and CSS3. Developed as part of my coursework with Code Institute, this project highlights my ability to create well-structured and visually appealing web pages.
 
-  - Live version : https://fallout-hangman-b9afc22725df.herokuapp.com/
-  - Github repository : https://github.com/tomik-z-cech/PP3-Fallout-Hangman
+  - Live version : [https://tomik-z-cech.github.io/PP1-Cibo-Fresco/index.html](https://tomik-z-cech.github.io/PP1-Cibo-Fresco/index.html)
+  - Github repository : [https://github.com/tomik-z-cech/PP1-Cibo-Fresco](https://github.com/tomik-z-cech/PP1-Cibo-Fresco)
  
-  - Grade : Merit
+  - Grade : **Merit**
 
 
 ---
