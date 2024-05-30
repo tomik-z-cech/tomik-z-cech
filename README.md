@@ -70,11 +70,11 @@ I am a Full Stack Software Developer and an alumnus of Code Institute, where I g
 
 May 2024 - Star Wars Hackathon - Code Institute
 
-[![May 2024 - 2nd place](https://tomik-z-cech.github.io/tomik-z-cech/2nd.png)](eu.badgr.io/public/assertions/hKeEMwACQ6aZQVEe7v--5Q?identity__email=tkubancik%40gmail.com)
+[![May 2024 - 2nd place](https://tomik-z-cech.github.io/tomik-z-cech/2nd.png)](http://eu.badgr.io/public/assertions/hKeEMwACQ6aZQVEe7v--5Q?identity__email=tkubancik%40gmail.com)
 
 Ocotober 2023 - Halloween Hackathon - Code Institute
 
-[![October 2023 - Participant](https://tomik-z-cech.github.io/tomik-z-cech/participant.png)](eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
+[![October 2023 - Participant](https://tomik-z-cech.github.io/tomik-z-cech/participant.png)](http://eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
 
 ---
 
