@@ -74,7 +74,7 @@ May 2024 - Star Wars Hackathon - Code Institute
 
 Ocotober 2023 - Halloween Hackathon - Code Institute
 
-[![October 2023 - Participant](https://tomik-z-cech.github.io/tomik-z-cech/participant.png)](https://eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
+[![October 2023 - Participant](https://tomik-z-cech.github.io/tomik-z-cech/participant.png)](https://api.eu.badgr.com/public/assertions/eKv7AAAhS_KtS7MQze1tWw?identity__email=tkubancik@gmail.com)
 
 ---
 
